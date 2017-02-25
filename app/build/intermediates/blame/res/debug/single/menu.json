@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\AdamC\\AndroidStudioProjects\\Pulsometr\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_scan.xml",
+        "source": "C:\\Users\\AdamC\\AndroidStudioProjects\\Pulsometr\\app\\src\\main\\res\\menu\\gatt_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdamC\\AndroidStudioProjects\\Pulsometr\\app\\build\\intermediates\\res\\merged\\debug\\menu\\graph_menu.xml",
+        "source": "C:\\Users\\AdamC\\AndroidStudioProjects\\Pulsometr\\app\\src\\main\\res\\menu\\graph_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\AdamC\\AndroidStudioProjects\\Pulsometr\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\AdamC\\AndroidStudioProjects\\Pulsometr\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    }
+]

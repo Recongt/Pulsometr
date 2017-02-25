@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/historia_wynikow"
+        android:title="Historia wyników" >
+        <!-- "file" submenu -->
+    </item>
+    <item android:id="@+id/test_ruffera"
+        android:title="Test Ruffera" >
+        <menu>
+            <item android:id="@+id/nowy_test"
+                android:title="Nowy test" />
+            <item android:id="@+id/wyniki_testu"
+                android:title="Zobacz zapisane wyniki" />
+        </menu>
+    </item>
+</menu>
